@@ -29,4 +29,9 @@ This program allows two players to take turns marking cells in a 3x3 grid until 
 - Follow the on-screen instructions to play the game.
 
 ## Screenshots
+![Screenshot from 2024-01-06 12-51-10](https://github.com/Merlinkk/Tic-Tac-Toe/assets/80953200/cbe47ab1-0c2c-4993-a640-672ab8243b5f)
+![Screenshot from 2024-01-06 12-52-09](https://github.com/Merlinkk/Tic-Tac-Toe/assets/80953200/cbcde8ef-bef2-46b6-8692-899c12426dab)
+![Screenshot from 2024-01-06 12-52-39](https://github.com/Merlinkk/Tic-Tac-Toe/assets/80953200/ac7c1e29-d5b7-49bc-9745-0f584d4d87d6)
+
+
 
